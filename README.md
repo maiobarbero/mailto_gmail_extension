@@ -1,6 +1,6 @@
 Open mailto links in Gmail instead of the default email client.
 
-You can add the extension to your browser here: (Chrome Extension)[https://chromewebstore.google.com/detail/mailto-to-gmail-in-browse/cknmfkdcimphecmgccililopdpkefdob]
+You can add the extension to your browser here: [Chrome Extension](https://chromewebstore.google.com/detail/mailto-to-gmail-in-browse/cknmfkdcimphecmgccililopdpkefdob)
 
 Mailto to Gmail — Open email links directly in Gmail
 
